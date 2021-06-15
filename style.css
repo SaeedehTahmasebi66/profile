@@ -1,0 +1,19 @@
+body >*{
+    padding: 15px;
+    max-width: 500px;
+    background-color: rgb(240, 255, 255);
+    margin: auto;
+    text-align: center;
+}
+
+header, footer{
+    background-color: rgb(121, 224, 224);
+}
+
+#habbits{
+    padding: 17px;
+}
+
+li{
+    text-align: left;
+}
